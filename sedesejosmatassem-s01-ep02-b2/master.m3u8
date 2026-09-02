@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1451245,RESOLUTION=1440x720
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled82@job-sedesejosmatassem-s01-ep02-b2/sedesejosmatassem-s01-ep02-b2/hls/index.m3u8
