@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1635872,RESOLUTION=1920x960
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled82@job-acaptura-s02-ep01-b2/acaptura-s02-ep01-b2/hls/index.m3u8
